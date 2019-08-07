@@ -1,0 +1,29 @@
+[
+   {
+      "id": "preferences",
+      "children":
+      [
+         {
+            "caption": "Package Settings",
+            "id": "package-settings",
+            "children":
+            [
+               {
+                  "caption": "Panel Select",
+                  "children":
+                  [
+                     {
+                        "command": "open_file",
+                        "args": {
+                           "file": "${packages}/PanelSelect/Default (Windows).sublime-keymap",
+                           "platform": "Windows"
+                        },
+                        "caption": "Key Bindings – Default"
+                     },
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]

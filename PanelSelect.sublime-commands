@@ -1,0 +1,5 @@
+[
+   { "caption": "Panel Selector (PS) - 3", "command": "panel_select", "args": {"panel": "3"}},
+   { "caption": "Panel Selector (PS) - 2", "command": "panel_select", "args": {"panel": "2"}},
+   { "caption": "Panel Selector (PS) - 1", "command": "panel_select", "args": {"panel": "1"}},
+]

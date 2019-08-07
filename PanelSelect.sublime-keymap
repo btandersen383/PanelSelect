@@ -1,5 +1,0 @@
-[
-   { "keys": ["ctrl+1"], "command": "panel_select", "args": { "panel": 1 } },
-   { "keys": ["ctrl+2"], "command": "panel_select", "args": { "panel": 2 } },
-   { "keys": ["ctrl+3"], "command": "panel_select", "args": { "panel": 3 } },
-]

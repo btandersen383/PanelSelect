@@ -1,10 +1,8 @@
 # PanelSelect
 Sublime plugin to select and focus on a given panel.
 
-This plugin is meant to help manage 3 panels in a sublime workspace. It will resize the two panels you are not focusing on and set your cursor in the selected panel. 
+## About
+This plugin is meant to help manage 3 groups of tabs in a sublime workspace. It will resize the two panels you are not focusing on and set your cursor in the selected panel. This allows for easy grouping of source files in a single project that you can quickly switch between while maintaining them all in the same window. For me this is convinient as they often are connected files but best grouped in a specific way for development.
 
-I expanding the plugin to:
-1. work dynamically with any given number of panels
-2. add a panel when you try to focus on a panel that does not exist
-3. override the 'ctrl+number' key bindings
-4. provide settings for how small to make the panels
+I plan on expanding the plugin to:
+1. add setting for number of groups to make

@@ -13,13 +13,14 @@
                   "children":
                   [
                      {
-                        "command": "open_file",
-                        "args": {
-                           "file": "${packages}/PanelSelect/Default (Windows).sublime-keymap",
-                           "platform": "Windows"
-                        },
-                        "caption": "Key Bindings – Default"
+                         "command": "edit_settings", 
+                         "args": {
+                             "base_file": "${packages}/PanelSelect/keymaps/Default (${platform}).sublime-keymap",
+                             "default": "{\n$0\n}\n"
+                         },
+                         "caption": "Key Bindings"
                      },
+                     { "caption": "-" }
                   ]
                }
             ]

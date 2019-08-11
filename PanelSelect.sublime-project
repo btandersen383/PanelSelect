@@ -4,5 +4,16 @@
 		{
 			"path": "."
 		}
-	]
+	],
+   "build_systems":
+   [
+      {
+         "name": "copy",
+         "shell_cmd": "bash project_copy.sh"
+      },
+      {
+         "name": "clean",
+         "shell_cmd": "echo not imp"
+      }
+   ]
 }

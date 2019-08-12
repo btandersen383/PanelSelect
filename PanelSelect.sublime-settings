@@ -1,0 +1,10 @@
+{
+   // Enable debug output
+   "debug": false,
+
+   // Change 'non-focused' panel size as a decimal percentage
+   "panel_size": 0.12,
+
+   // Select how many panels you want to use
+   "panel_count": 3,
+}

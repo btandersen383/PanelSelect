@@ -20,6 +20,14 @@
                          },
                          "caption": "Key Bindings"
                      },
+                     {
+                         "command": "edit_settings", 
+                         "args": {
+                             "base_file": "${packages}/PanelSelect/PanelSelect.sublime-settings",
+                             "default": "{\n$0\n}\n"
+                         },
+                         "caption": "Settings"
+                     },
                      { "caption": "-" }
                   ]
                }
